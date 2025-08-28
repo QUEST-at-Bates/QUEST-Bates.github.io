@@ -1,0 +1,29 @@
+[
+  {
+    "objectID": "starthere.html",
+    "href": "starthere.html",
+    "title": "Start Here",
+    "section": "",
+    "text": "Welcome to the QUEST group at Bates College in the Department of Physics and Astronomy.\n\nRead the lab manual\nThe first thing you should do as a member of this research group is read the lab manual. This manual establishes the expectations for the research group and lays out clearly the requirements for thesis work.\n\n\nJoin the slack workspace\nYou should have received an email with an invite link to join the QUEST slack workspace. If you didn’t, email Casey to ask for a link.\nThe slack workspace is where we will organize conversations about projects, schedule group meetings, and ask each other questions.\n\n\nGet started with GitHub\nOnce you have read the lab manual and joined the slack, you will need to get familiar with GitHub. If you have never used GitHub before, there is a tutorial you can follow here.\nPlease go through the tutorial linked above. At the end of the tutorial, please make your repository public if you haven’t already, and send me a link so that I can check that you’ve gone through the steps in the tutorial. After that, I will add you to the QUEST organization on GitHub.\nIf you are already familiar with GitHub, I still ask that you go through this process, just so I can ensure that everyone has experience with these basic tasks.\n\n\nHave concerns?\nWorking and collaborating on research can be stressful. That stress is often indicative of growth and is a good thing, but it’s also possible for problematic or hurtful situations to develop when working under pressure and with other people. If something has made you uncomfortable, or if you think there is something I should know about, but don’t feel comfortable speaking with me directly, I have an anonymous feedback form you can fill out.\nThis form does not collect any identifying information (though you are welcome to leave your name if you want me to follow up with you).",
+    "crumbs": [
+      "Start Here"
+    ]
+  },
+  {
+    "objectID": "manual.html",
+    "href": "manual.html",
+    "title": "QUEST group lab manual",
+    "section": "",
+    "text": "This lab manual sets up the expectations for being part of the QUEST research group at Bates College.",
+    "crumbs": [
+      "QUEST group lab manual"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "QUEST: Quantum Explorations, Stochastic Tools",
+    "section": "",
+    "text": "This is the landing page for the Bates College QUEST Research Group, led by Dr. Casey Berger in the Department of Physics and Astronomy. On this site you can find the group manual, useful links and resources, and get access to the GitHub and research library.\nPlease begin by reading the group manual, where we lay out what it means to be a member of this group: Group Manual"
+  }
+]

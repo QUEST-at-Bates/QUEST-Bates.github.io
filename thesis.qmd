@@ -1,0 +1,7 @@
+---
+title: "Thesis at Bates"
+format: 
+  html:
+    link-external-newwindow: true
+editor: source
+---

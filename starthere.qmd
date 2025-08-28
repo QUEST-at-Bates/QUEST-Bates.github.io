@@ -1,0 +1,36 @@
+---
+title: "Start Here"
+format: 
+  html:
+    link-external-newwindow: true
+editor: source
+---
+
+
+Welcome to the QUEST group at Bates College in the Department of Physics and Astronomy.
+
+
+# Read the lab manual
+
+The first thing you should do as a member of this research group is read the [lab manual](manual.qmd). This manual establishes the expectations for the research group and lays out clearly the requirements for thesis work.
+
+# Join the slack workspace
+
+You should have received an email with an invite link to join the QUEST slack workspace. If you didn't, email Casey to ask for a link.
+
+The slack workspace is where we will organize conversations about projects, schedule group meetings, and ask each other questions.
+
+
+# Get started with GitHub
+
+Once you have read the lab manual and joined the slack, you will need to get familiar with GitHub. If you have never used GitHub before, there is a tutorial you can follow [here](https://docs.github.com/en/get-started/start-your-journey/hello-world).
+
+Please go through the tutorial linked above. At the end of the tutorial, please [make your repository public](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) if you haven't already, and send me a link so that I can check that you've gone through the steps in the tutorial. After that, I will add you to the QUEST organization on GitHub.
+
+If you are already familiar with GitHub, I still ask that you go through this process, just so I can ensure that everyone has experience with these basic tasks.
+
+# Have concerns?
+
+Working and collaborating on research can be stressful. That stress is often indicative of growth and is a good thing, but it's also possible for problematic or hurtful situations to develop when working under pressure and with other people. If something has made you uncomfortable, or if you think there is something I should know about, but don't feel comfortable speaking with me directly, I have an [anonymous feedback form](https://forms.gle/h1dzxVJKPEVo3v467) you can fill out. 
+
+This form does not collect any identifying information (though you are welcome to leave your name if you want me to follow up with you).

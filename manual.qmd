@@ -1,0 +1,9 @@
+---
+title: "QUEST group lab manual"
+format: 
+  html:
+    link-external-newwindow: true
+editor: source
+---
+
+This lab manual sets up the expectations for being part of the QUEST research group at Bates College.

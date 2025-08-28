@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "QUEST at Bates College"
+  navbar:
+    background: primary #color of background is primary color in palette
+    search: true
+    #left is left-aligned top bar
+    left:
+      - href: index.qmd
+        text: Home
+      - sidebar:starthere
+      - sidebar:thesis
+  
+  sidebar:
+    - id: starthere
+      title: "Start Here"
+      style: "docked"
+      background: light
+      contents:
+       - starthere.qmd
+       - manual.qmd
+       
+    - id: thesis
+      title: "Thesis at Bates"
+      style: "docked"
+      background: light
+      contents:
+       - thesis.qmd
+       - href: https://www.bates.edu/honors/calendar/
+         text: "Honors Thesis Calendar" 
+         target: _blank #makes it open in new page
+
+   
+   
+format:
+  html:
+    theme: bates_yeti.scss
+    toc: true
+
+
