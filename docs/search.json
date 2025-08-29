@@ -4,7 +4,7 @@
     "href": "starthere.html",
     "title": "Start Here",
     "section": "",
-    "text": "Welcome to the QUEST group at Bates College in the Department of Physics and Astronomy.\n\nRead the lab manual\nThe first thing you should do as a member of this research group is read the lab manual. This manual establishes the expectations for the research group and lays out clearly the requirements for thesis work.\n\n\nJoin the slack workspace\nYou should have received an email with an invite link to join the QUEST slack workspace. If you didn’t, email Casey to ask for a link.\nThe slack workspace is where we will organize conversations about projects, schedule group meetings, and ask each other questions.\n\n\nGet started with GitHub\nOnce you have read the lab manual and joined the slack, you will need to get familiar with GitHub. If you have never used GitHub before, there is a tutorial you can follow here.\nPlease go through the tutorial linked above. At the end of the tutorial, please make your repository public if you haven’t already, and send me a link so that I can check that you’ve gone through the steps in the tutorial. After that, I will add you to the QUEST organization on GitHub.\nIf you are already familiar with GitHub, I still ask that you go through this process, just so I can ensure that everyone has experience with these basic tasks.\n\n\nHave concerns?\nWorking and collaborating on research can be stressful. That stress is often indicative of growth and is a good thing, but it’s also possible for problematic or hurtful situations to develop when working under pressure and with other people. If something has made you uncomfortable, or if you think there is something I should know about, but don’t feel comfortable speaking with me directly, I have an anonymous feedback form you can fill out.\nThis form does not collect any identifying information (though you are welcome to leave your name if you want me to follow up with you).",
+    "text": "Welcome to the QUEST group at Bates College in the Department of Physics and Astronomy.\n\nRead the lab manual\nThe first thing you should do as a member of this research group is read the lab manual. This manual establishes the expectations for the research group and lays out clearly the requirements for thesis work.\n\n\nJoin the slack workspace\nYou should have received an email with an invite link to join the QUEST slack workspace. If you didn’t, email Casey to ask for a link.\nThe slack workspace is where we will organize conversations about projects, schedule group meetings, and ask each other questions.\n\n\nCreate an Overleaf account\nIf you don’t already have one, please create an Overleaf account. This is how you will keep track of progress on projects and contribute to project manuals, and if you are doing a thesis, it’s where you will put your drafts.\n\n\nGet started with GitHub\nOnce you have read the lab manual and joined the slack, you will need to get familiar with GitHub. If you have never used GitHub before, there is a tutorial you can follow here.\nPlease go through the tutorial linked above. At the end of the tutorial, please make your repository public if you haven’t already, and send me a link so that I can check that you’ve gone through the steps in the tutorial. After that, I will add you to the QUEST organization on GitHub.\nIf you are already familiar with GitHub, I still ask that you go through this process, just so I can ensure that everyone has experience with these basic tasks.\n\n\nHave concerns?\nWorking and collaborating on research can be stressful. That stress is often indicative of growth and is a good thing, but it’s also possible for problematic or hurtful situations to develop when working under pressure and with other people. If something has made you uncomfortable, or if you think there is something I should know about, but don’t feel comfortable speaking with me directly, I have an anonymous feedback form you can fill out.\nThis form does not collect any identifying information (though you are welcome to leave your name if you want me to follow up with you).",
     "crumbs": [
       "Start Here"
     ]
@@ -14,7 +14,7 @@
     "href": "manual.html",
     "title": "QUEST group lab manual",
     "section": "",
-    "text": "This lab manual sets up the expectations for being part of the QUEST research group at Bates College.",
+    "text": "Research can be enjoyable, productive, and exciting. It can also be intimidating, overwhelming, and tedious. Both can coexist, and learning what you want to have more of and what you are willing to live with (and what you are not) is helpful in developing your own research philosophy and direction.\nMaking mistakes is part of the process. You shouldn’t be embarrassed or ashamed about mistakes, as they are an amazing opportunity to learn (and failure is a far more effective teacher than success).\nWe do real research in this group, and you are real scientists.\nAll of us, no matter how many years we have been doing this, have a lot to learn from each other.\nResearch does not have a syllabus or an answer key, so you have to learn to set your own goals, assess your own progress, and motivate yourself to put in the hard work, stay positive when it gets challenging, and ask for help when you need it. I will be here to help you with that along the way, but you have to put in the work to get started.",
     "crumbs": [
       "QUEST group lab manual"
     ]
@@ -25,5 +25,55 @@
     "title": "QUEST: Quantum Explorations, Stochastic Tools",
     "section": "",
     "text": "This is the landing page for the Bates College QUEST Research Group, led by Dr. Casey Berger in the Department of Physics and Astronomy. On this site you can find the group manual, useful links and resources, and get access to the GitHub and research library.\nPlease begin by reading the group manual, where we lay out what it means to be a member of this group: Group Manual"
+  },
+  {
+    "objectID": "manual.html#from-casey",
+    "href": "manual.html#from-casey",
+    "title": "QUEST group lab manual",
+    "section": "From Casey",
+    "text": "From Casey\n\nI will communicate my expectations to you clearly and respond to emails and questions in a timely fashion.\nI may not have time for everything, and when I don’t, I will be transparent about my abilities and my limitations.\nI will do my very best to meet you where you are and help you find work that interests you and develop the skills you need and want for your career goals, whether or not those involve research.",
+    "crumbs": [
+      "QUEST group lab manual"
+    ]
+  },
+  {
+    "objectID": "manual.html#from-you",
+    "href": "manual.html#from-you",
+    "title": "QUEST group lab manual",
+    "section": "From you",
+    "text": "From you\n\nI expect you to put in consistent work on the research.\nI expect you to log your time if you are doing research for credit (thesis) or if you are doing paid hourly work.\nI expect you to communicate in a clear and timely fashion. Please respond to emails within 48 hours, especially those which contain a deadline in them.\nI expect you to treat your fellow students with respect and compassion.\nI expect you to attend all group meetings if you are enrolled in research for credit (senior thesis) or if you are doing paid hourly work (you should log research meetings as work time)",
+    "crumbs": [
+      "QUEST group lab manual"
+    ]
+  },
+  {
+    "objectID": "manual.html#general-information-and-policies-for-all-research-positions",
+    "href": "manual.html#general-information-and-policies-for-all-research-positions",
+    "title": "QUEST group lab manual",
+    "section": "General information and policies (for all research positions)",
+    "text": "General information and policies (for all research positions)\n\nWeekly group meetings and presentations\nWe will meet once a week during the term for a period of one hour. Each week, you should be prepared to present 3 slides (~5 minutes of time) on your work over the past week. Your three slides should be:\n\nProgress made on your goals for the week\nWhat worked/what didn’t (it’s okay to be stuck!)\nYour goals for next week\n\nAt least one hour prior to our group meeting, I expect you to post your slides in the current semester channel in the group slack workspace.\nPresenting on your work can be intimidating, but it’s a very normal part of the research process to discuss work that is completed or still in-progress. This weekly practice should make it easier to do your mid-semester progress report to the department as well as your final thesis presentation, as you will already have practiced preparing slides and discussing your work.\nOnce everyone has presented their update for the week, we will have open time to work together on problem solving, if that is useful, or for me to answer individual questions.\nIf you need more time to discuss something with me, or if you get stuck mid-week and need to talk, you can use this calendly link to set a 30 minute meeting with me.\n\n\nSlack use policy\nThe most important rule of using the group’s slack workspace is that you will be professional, respectful, and kind to your peers.\nIn addition, I expect you to check slack daily for announcements and updates. This means looking in the channel for the current semester as well as any project channels that you are on.\nYou do not need to post regularly in the slack, but before you reach out to me with a general programming question or debugging issue, I do expect you to put your question in the slack first, to see if anyone else can answer it. Your peers will learn from helping you, and you will learn from returning the favor.\n\n\nProject note taking policy\nThere are two types of notes I expect you to keep updated:\n\nWhen you join the group, you will create a personal “lab notebook” on overleaf. You will keep your project notes updated there, with an informal “report” each week. This does not need to be formatted in any specific way - it’s just a place for you to keep track of what you were doing, any useful tips you want to remember, and troubleshooting issues that arise. You are free to decide what workflow works best for you.\nWhen you are added to a project, you will also be added to that project’s logbook in overleaf. Any time you make a significant change or discover a noteworthy insight about that project, I expect you to add it to the project’s logbook. In the project logbooks, you will add your notes with an identifying color and label. I will show you how to set this up in overleaf with a quick shortcut.",
+    "crumbs": [
+      "QUEST group lab manual"
+    ]
+  },
+  {
+    "objectID": "manual.html#senior-thesis",
+    "href": "manual.html#senior-thesis",
+    "title": "QUEST group lab manual",
+    "section": "Senior Thesis",
+    "text": "Senior Thesis\n\nTime expectations\nYou should consider your thesis project as equivalent to a demanding upper-level course. The minimum amount of work, including “in-class” time (e.g. our weekly meetings or one-on-one meetings), for a 1.0 credit course is 12 hours per week. Given that this is your culminating project for your Physics major at Bates, that means you should expect to devote more like 15 hours per week towards your thesis project.\n\n\nMid-semester check-in\nSometime in October, the department will schedule a thesis progress presentation time. One week prior to the thesis progress presentation, you will do the following:\n\nTurn in a draft of a 7-minute talk on the work you have done so far this semester and the remaining work to do\nSchedule a 30 minute meeting with me to talk through your presentation slides\n\nDuring the weekly group meeting that falls before to the thesis progress presentations, we will devote the whole time to practicing talks and giving each other feedback.\n\n\nFinal drafts (and progress reports for two-semester theses)\nAt the end of the semester, you will turn in a final draft of your thesis. One week prior to the department’s final deadline, I will ask you to send me a draft of your thesis so I can provide feedback.\nIf you are doing a two-semester thesis or an honors thesis, I will ask you to submit a progress report at this time. Think of this as a chance to get way ahead on your thesis drafting — draft as much as you can given the work you have done so far, add 1-2 pages at the end on your remaining project goals, your schedule for completing those goals, and any support you could use in the winter term and submit that to me by the end of the fall semester.",
+    "crumbs": [
+      "QUEST group lab manual"
+    ]
+  },
+  {
+    "objectID": "manual.html#honors-thesis",
+    "href": "manual.html#honors-thesis",
+    "title": "QUEST group lab manual",
+    "section": "Honors Thesis",
+    "text": "Honors Thesis\nIf you are planning to do an honors thesis, here is how that will work.\n\nFirst, we will commit to a two-semester thesis, with the intention to convert to an honors thesis in the winter term\nIn the first week of the fall semester, we will meet and discuss your project. Your first task will be to convert what we discussed in our meeting into a brief (2-page) thesis proposal, which must include a literature review with at least 5 sources. This will be due one week after our meeting.\nYou will work the expected hours on your thesis, completing all the same requirements as a regular thesis project, during the fall semester.\nAt the end of the fall semester, we will meet and discuss your work and whether you are still on-track to complete an honors-level thesis.\nIf the department agrees that you are on track for an honors thesis, in the winter term, per the college’s honors thesis calendar, the department will nominate you to the college for an honors thesis, and you will progress with the schedule set out by the college.",
+    "crumbs": [
+      "QUEST group lab manual"
+    ]
   }
 ]
